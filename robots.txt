@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://foxmeyson.github.io/sitemap.xml
+Sitemap: https://matrix-spec.github.io/sitemap.xml
